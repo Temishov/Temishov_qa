@@ -1,1 +1,3 @@
 # Temishov_qa
+[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1XrOU5eo3DCCM2fmivcOJOloKza9-3vA7Nx4dy2Ni9dU/edit#gid=306401338)
+---
